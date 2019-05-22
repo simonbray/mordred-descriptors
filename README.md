@@ -7,7 +7,7 @@ Moriwaki H, Tian Y-S, Kawashita N, Takagi T (2018) Mordred: a molecular descript
 
 ## List of descriptors
 
-index | module | name | constructor | dimention | description
+index | module | name | constructor | dimension | description
 --- | --- | --- | --- | --- | ---
 1 | ABCIndex | ABC | ABCIndex() | 2D | atom-bond connectivity index
 2 |  | ABCGG | ABCGGIndex() | 2D | Graovac-Ghorbani atom-bond connectivity index
